@@ -1,4 +1,4 @@
-### Hi there 👋 Welome to my github! 
+### Hi there 👋 Welcome to my github! 
 
 <!--
 **dstadz/dstadz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
