@@ -7,8 +7,6 @@ Away from the computer, I enjoy comedy, literary analysis and BJJ.
 
 I'm a quick learner and a believer in constant improvement.
 
-Want to learn more about me? Checkout my portfolio.
-
 ✨ Tech I know ✨
 Figma
 HTML5/CSS/SASS
