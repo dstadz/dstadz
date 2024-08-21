@@ -1,20 +1,17 @@
 ### Hi there 👋 Welcome to my github! 
 
 
-I'm Daniel, a Full Stack Software Engineer searching for an opportunity to make a difference in the world. I enjoy learning new tech, and working with other talented and interesting engineers and designers.
+I'm Daniel, a Front End Software Engineer searching for an opportunity to make a difference in the world.
+I enjoy learning new tech and working with other talented and interesting engineers and designers.
 
-Away from the computer, I enjoy comedy, literary analysis and BJJ. 
+Away from the computer, I enjoy comedy, literary analysis and Blender. 
 
 I'm a quick learner and a believer in constant improvement.
 
 ✨ Tech I know ✨
-Figma
-HTML5/CSS/SASS
-JavaScript
-React
-Node.js
-Python
-PostgreSQL
+Figma, HTML5, CSS, JavaScript
+React, Material UI, React Hook Form
+Node, Next JS
 AWS
 
 <!--
